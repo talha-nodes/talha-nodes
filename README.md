@@ -30,14 +30,45 @@ Building modern web applications and open source projects.
 
 ## 🛠 Tech Stack
 
-Coming Soon...
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php&perline=6&theme=dark" />
+</p>
+
+<p align="center">
+HTML • CSS • JavaScript • TypeScript • React • PHP
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- 🌐 Building Modern Web Applications
+- 📚 Improving Frontend Development Skills
+- ⚡ Writing Clean & Reusable Code
+- 🚀 Exploring New Technologies
 
 ---
 
 ## 📊 GitHub Stats
 
-Coming Soon...
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=talha-nodes&theme=tokyonight&hide_border=true" />
+</p>
 
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=talha-nodes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" />
+</p>
+
+---
+
+## 🔝 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha-nodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
 ---
 
 ## 📫 Connect With Me
