@@ -8,27 +8,30 @@
   <img src="https://img.shields.io/github/followers/talha-nodes?label=Followers&style=for-the-badge"/>
   <img src="https://komarev.com/ghpvc/?username=talha-nodes&label=Views&style=for-the-badge&color=blueviolet"/>
 </p>
----
 
 ## 👨‍💻 About Me
-
-- 💻 Full Stack Developer
-- 🚀 Building the Future with Code
-- ⚡ Turning Ideas Into Reality
-- 🌱 Always Learning New Technologies
-- 🇧🇩 Bangladesh
+- 🔭 Currently working on **DeshStream**
+- 🌱 Currently learning **Node.js & C++**
+- 💬 Ask me about **React, TypeScript, PHP & Web Development**
+- ⚡ Fun fact: **I love turning complex problems into simple, beautiful code.**
 
 ---
 
 ## 🛠 Tech Stack
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php&perline=6&theme=dark" />
-</p>
+**Backend & Tools:**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-<p align="center">
-HTML • CSS • JavaScript • TypeScript • React • PHP
-</p>
+---
+
 
 ---
 
@@ -51,26 +54,17 @@ HTML • CSS • JavaScript • TypeScript • React • PHP
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=talha-nodes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=talha-nodes&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10)
 
 ---
 
 ## 🔝 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talha-nodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talha_nodes&layout=compact&theme=tokyonight&border_radius=10)
+
 ---
 
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/talha-nodes" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/>
-  </a>
-    
-
+## 📫 Connect With M
   <a href="https://x.com/talhajubayfrej" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="48" alt="X"/>
   </a>
@@ -90,5 +84,10 @@ HTML • CSS • JavaScript • TypeScript • React • PHP
     <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail"/>
   </a>
     
+</p>
+<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
+
+<p align="center">
+  <i>Building the Future with Code 🚀</i>
 </p>
 
