@@ -8,14 +8,6 @@
   <img src="https://img.shields.io/github/followers/talha-nodes?label=Followers&style=for-the-badge"/>
   <img src="https://komarev.com/ghpvc/?username=talha-nodes&label=Views&style=for-the-badge&color=blueviolet"/>
 </p>
-# Hi I'm TALHA
-
-### 💻 Full Stack Developer
-
-Building modern web applications and open source projects.
-
-</div>
-
 ---
 
 ## 👨‍💻 About Me
@@ -73,4 +65,30 @@ HTML • CSS • JavaScript • TypeScript • React • PHP
 
 ## 📫 Connect With Me
 
-Coming Soon...
+<p align="center">
+  <a href="https://github.com/talha-nodes" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/>
+  </a>
+    
+
+  <a href="https://x.com/talhajubayfrej" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="48" alt="X"/>
+  </a>
+    
+
+  <a href="https://linkedin.com/in/rifat-hossen" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/>
+  </a>
+    
+
+  <a href="https://deshstream.co4.in" target="_blank">
+    <img src="https://skillicons.dev/icons?i=webflow" height="48" alt="Portfolio"/>
+  </a>
+    
+
+  <a href="mailto:talha.devhq@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail"/>
+  </a>
+    
+</p>
+
