@@ -52,19 +52,7 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=talha-nodes&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10)
-
----
-
-## 🔝 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talha_nodes&layout=compact&theme=tokyonight&border_radius=10)
-
----
-
-## 📫 Connect With M
+## 📫 Connect With Me
   <a href="https://x.com/talhajubayfrej" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="48" alt="X"/>
   </a>
