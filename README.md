@@ -58,12 +58,12 @@
   </a>
     
 
-  <a href="https://linkedin.com/in/rifat-hossen" target="_blank">
+  <a href="https://www.linkedin.com/in/rifat-hossen-aa0690400?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/>
   </a>
     
 
-  <a href="https://deshstream.co4.in" target="_blank">
+  <a href="https://www.talhadev.cyou" target="_blank">
     <img src="https://skillicons.dev/icons?i=webflow" height="48" alt="Portfolio"/>
   </a>
     
